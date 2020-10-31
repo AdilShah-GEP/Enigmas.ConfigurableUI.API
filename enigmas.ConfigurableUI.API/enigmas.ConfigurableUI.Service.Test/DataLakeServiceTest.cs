@@ -26,15 +26,6 @@ namespace enigmas.ConfigurableUI.Service.Test
         }
 
 
-        [Test]
-        public void GetFile()
-        {
-            InputModel ret = new InputModel() { 
-                DefaultValue  = "DefaultValue"
-            };
-            _dataLakeDA.Setup(a => a.GetData(It.IsAny<InputParamsDataLake>(), It.IsAny<string>())).ReturnsAsync(ret);
-            dataLake.GetData("","");
-        }
 
     }
 }

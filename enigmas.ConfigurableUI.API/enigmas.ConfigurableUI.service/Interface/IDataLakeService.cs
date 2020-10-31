@@ -9,8 +9,8 @@ namespace enigmas.ConfigurableUI.service.Interface
 {
     public interface IDataLakeService
     {
-        public Task<bool> InsertData(string conn, string container,  InputModel input);
+        public Task<bool> InsertData(string conn, string container,  InputModel[] input);
 
-        public Task<InputModel> GetData(string conn, string container);
+        public Task<InputModel[]> GetData(string conn, string container);
     }
 }

@@ -116,6 +116,11 @@ C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableU
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.xml
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.csprojAssemblyReference.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.AssemblyInfoInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.AssemblyInfo.cs
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.csproj.CoreCompileInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -223,12 +228,6 @@ C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.Co
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.pdb
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.DataAccess.pdb
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.pdb
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.csprojAssemblyReference.cache
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.AssemblyInfoInputs.cache
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.AssemblyInfo.cs
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.csproj.CoreCompileInputs.cache
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.RazorTargetAssemblyInfo.cache
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.API.csproj.CopyComplete
 C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\obj\Debug\netcoreapp3.1\staticwebassets\enigmas.ConfigurableUI.API.StaticWebAssets.Manifest.cache

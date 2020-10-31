@@ -21,13 +21,13 @@ namespace enigmas.ConfigurableUI.API.Controllers
         }
 
         [HttpPost]
-        public Task<bool> CreateFile(InputModel input)
+        public Task<bool> CreateFile(InputModel[] input)
         {
             return _dataLake.InsertData(Startup.connection,Startup.container, input);
         }
 
         [HttpGet]
-        public Task<InputModel> GetData()
+        public Task<InputModel[]> GetData()
         {
             return _dataLake.GetData(Startup.connection, Startup.container);
         }

@@ -28,7 +28,7 @@ namespace enigmas.ConfigurableUI.DataAccess.Implementation
             return ms;
         }
 
-        public async Task<bool> InsertData(InputParamsDataLake inputParamsDL, InputModel input)
+        public async Task<bool> InsertData(InputParamsDataLake inputParamsDL, InputModel[] input)
         {
             var cloudBlobContainer = GetContainer(inputParamsDL.Connection,inputParamsDL.ContainerName);
             cloudBlobContainer.CreateIfNotExists();

@@ -26,7 +26,7 @@ namespace enigmas.ConfigurableUI.service.Implementation
             _dataLakeDA = dataLakeDA;
         }
 
-        public async Task<bool> InsertData(string conn, string container, InputModel input)
+        public async Task<bool> InsertData(string conn, string container, InputModel[] input)
         {
             try
             {
@@ -45,7 +45,7 @@ namespace enigmas.ConfigurableUI.service.Implementation
             return true;
         }
 
-        public async Task<InputModel> GetData(string conn, string containerName)
+        public async Task<InputModel[]> GetData(string conn, string containerName)
         {
             InputParamsDataLake inputParams = new InputParamsDataLake()
             {
@@ -57,12 +57,12 @@ namespace enigmas.ConfigurableUI.service.Implementation
             return await ConvertMStreamtoObject(ms);
         }
 
-        public async Task<InputModel> ConvertMStreamtoObject(MemoryStream ms)
+        public async Task<InputModel[]> ConvertMStreamtoObject(MemoryStream ms)
         {
             ms.Seek(0, SeekOrigin.Begin);
             var reader = new StreamReader(ms, Encoding.UTF8);
             var str = reader.ReadToEnd();
-            return JsonConvert.DeserializeObject<InputModel>(str);
+            return JsonConvert.DeserializeObject<InputModel[]>(str);
         }
 
         public string GetFileName()
