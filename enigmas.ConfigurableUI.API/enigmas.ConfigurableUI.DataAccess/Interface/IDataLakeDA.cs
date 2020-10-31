@@ -11,7 +11,7 @@ namespace enigmas.ConfigurableUI.DataAccess.Interface
     {
         public Task<MemoryStream> GetData(InputParamsDataLake inputParamsDataLake, string defaultFile);
 
-        public Task<bool> InsertData(InputParamsDataLake inputParamsDataLake, InputModel input);
+        public Task<bool> InsertData(InputParamsDataLake inputParamsDataLake, InputModel[] input);
 
     }
 }
