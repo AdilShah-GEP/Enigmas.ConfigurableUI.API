@@ -12,7 +12,7 @@ namespace enigmas.ConfigurableUI.API
     {
         public static void Register(IServiceCollection services)
         {
-            services.AddScoped<IDataLake, DataLake>();
+            services.AddScoped<IDataLakeService, DataLakeService>();
         }
     }
 }

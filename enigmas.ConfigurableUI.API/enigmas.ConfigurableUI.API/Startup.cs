@@ -37,6 +37,7 @@ namespace enigmas.ConfigurableUI.API
         {
             this.ConfigureControllers(services);
             base.ConfigureServices(services);
+            RegisterDataAccess.Register(services);
             RegisterBusinessService.Register(services);
             RegisterSwagger.Register(services);
         }

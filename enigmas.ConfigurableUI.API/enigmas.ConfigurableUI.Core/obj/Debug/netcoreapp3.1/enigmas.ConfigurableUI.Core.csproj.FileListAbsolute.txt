@@ -6,3 +6,11 @@ C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableU
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.csproj.CoreCompileInputs.cache
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.dll
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.pdb
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.deps.json
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.dll
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.pdb
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.AssemblyInfoInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.AssemblyInfo.cs
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.dll
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.Core\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.pdb

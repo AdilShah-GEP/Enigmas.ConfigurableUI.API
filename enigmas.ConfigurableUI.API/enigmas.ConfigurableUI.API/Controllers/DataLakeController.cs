@@ -14,8 +14,8 @@ namespace enigmas.ConfigurableUI.API.Controllers
     [Authorize]
     public class DataLakeController : ControllerBase
     {
-        private readonly IDataLake _dataLake;
-        public DataLakeController(IDataLake dataLake)
+        private readonly IDataLakeService _dataLake;
+        public DataLakeController(IDataLakeService dataLake)
         {
             _dataLake = dataLake;
         }

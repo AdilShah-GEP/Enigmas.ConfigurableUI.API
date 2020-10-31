@@ -2838,6 +2838,18 @@
           "enigmas.ConfigurableUI.Core.dll": {}
         }
       },
+      "enigmas.ConfigurableUI.DataAccess/1.0.0": {
+        "dependencies": {
+          "enigmas.ConfigurableUI.Core": "1.0.0",
+          "enigmas.ConfigurableUI.infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "enigmas.ConfigurableUI.DataAccess.dll": {}
+        },
+        "compile": {
+          "enigmas.ConfigurableUI.DataAccess.dll": {}
+        }
+      },
       "enigmas.ConfigurableUI.infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.Azure.Storage.Blob": "11.2.2",
@@ -2853,6 +2865,7 @@
       "enigmas.ConfigurableUI.service/1.0.0": {
         "dependencies": {
           "enigmas.ConfigurableUI.Core": "1.0.0",
+          "enigmas.ConfigurableUI.DataAccess": "1.0.0",
           "enigmas.ConfigurableUI.infrastructure": "1.0.0"
         },
         "runtime": {
@@ -6086,6 +6099,11 @@
       "hashPath": "windowsazure.storage.9.3.3.nupkg.sha512"
     },
     "enigmas.ConfigurableUI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "enigmas.ConfigurableUI.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
