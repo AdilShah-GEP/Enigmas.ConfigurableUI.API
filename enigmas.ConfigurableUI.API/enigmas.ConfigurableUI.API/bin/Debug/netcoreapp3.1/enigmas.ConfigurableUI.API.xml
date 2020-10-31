@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>enigmas.ConfigurableUI.API</name>
+    </assembly>
+    <members>
+        <member name="F:enigmas.ConfigurableUI.API.RegisterSwagger.INTERNAL_API_DESCRIPTION">
+            <summary>
+            This will appear as api description. swagger.json->info.description
+            </summary>
+        </member>
+        <member name="F:enigmas.ConfigurableUI.API.RegisterSwagger.INTERNAL_API_DOCUMENTATION_URL">
+            <summary>
+            A link where a user can go read the documents realted to API
+            </summary>
+        </member>
+    </members>
+</doc>

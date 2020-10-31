@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "enigmas.ConfigurableUI.DataAccess/1.0.0": {
+        "runtime": {
+          "enigmas.ConfigurableUI.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enigmas.ConfigurableUI.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

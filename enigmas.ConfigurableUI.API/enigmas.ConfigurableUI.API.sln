@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigmas.ConfigurableUI.API", "enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API.csproj", "{3524A3B3-633A-456C-9134-E4DAEFCAF943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigmas.ConfigurableUI.service", "enigmas.ConfigurableUI.service\enigmas.ConfigurableUI.service.csproj", "{13A97ACF-0DC0-4722-956E-EFF1DC7D75CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigmas.ConfigurableUI.DataAccess", "enigmas.ConfigurableUI.DataAccess\enigmas.ConfigurableUI.DataAccess.csproj", "{3934109E-277B-4C85-9BDA-C6526570AA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigmas.ConfigurableUI.infrastructure", "enigmas.ConfigurableUI.infrastructure\enigmas.ConfigurableUI.infrastructure.csproj", "{D69C7A3E-D601-455D-AD64-78CB93F1547C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enigmas.ConfigurableUI.Core", "enigmas.ConfigurableUI.Core\enigmas.ConfigurableUI.Core.csproj", "{5167A28B-0D8D-4E4A-8E4D-C9B7FBA23556}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{21B89AB2-475F-4F92-8B08-DDA8CE58A609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3524A3B3-633A-456C-9134-E4DAEFCAF943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3524A3B3-633A-456C-9134-E4DAEFCAF943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3524A3B3-633A-456C-9134-E4DAEFCAF943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3524A3B3-633A-456C-9134-E4DAEFCAF943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A97ACF-0DC0-4722-956E-EFF1DC7D75CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A97ACF-0DC0-4722-956E-EFF1DC7D75CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A97ACF-0DC0-4722-956E-EFF1DC7D75CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A97ACF-0DC0-4722-956E-EFF1DC7D75CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3934109E-277B-4C85-9BDA-C6526570AA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3934109E-277B-4C85-9BDA-C6526570AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3934109E-277B-4C85-9BDA-C6526570AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3934109E-277B-4C85-9BDA-C6526570AA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69C7A3E-D601-455D-AD64-78CB93F1547C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69C7A3E-D601-455D-AD64-78CB93F1547C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69C7A3E-D601-455D-AD64-78CB93F1547C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69C7A3E-D601-455D-AD64-78CB93F1547C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5167A28B-0D8D-4E4A-8E4D-C9B7FBA23556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5167A28B-0D8D-4E4A-8E4D-C9B7FBA23556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5167A28B-0D8D-4E4A-8E4D-C9B7FBA23556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5167A28B-0D8D-4E4A-8E4D-C9B7FBA23556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66DB5884-4F8E-4864-B1EF-9A6DE5EE1F6F}
+	EndGlobalSection
+EndGlobal

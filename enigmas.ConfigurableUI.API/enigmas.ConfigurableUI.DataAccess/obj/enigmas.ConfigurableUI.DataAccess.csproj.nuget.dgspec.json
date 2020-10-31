@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj",
+        "projectName": "enigmas.ConfigurableUI.DataAccess",
+        "projectPath": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\adil.shah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adil.shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gepdev.pkgs.visualstudio.com/_packaging/GEPPackages@Release/nuget/v3/index.json": {},
+          "https://scmdevops.pkgs.visualstudio.com/NugetPackages/_packaging/ScmFeed/nuget/v3/index.json": {},
+          "https://scmdevops.visualstudio.com/NugetPackages/_packaging?_a=package&feed=ScmFeed&package=dm.lib.impex.nuget&protocolType=NuGet&version=1.0.2&view=versions": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

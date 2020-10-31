@@ -1,0 +1,14 @@
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.csprojAssemblyReference.cache
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.AssemblyInfoInputs.cache
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.AssemblyInfo.cs
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.csproj.CoreCompileInputs.cache
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.deps.json
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.dll
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.pdb
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.dll
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.dll
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.Core.pdb
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.pdb
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.csproj.CopyComplete
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.dll
+C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.service\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.service.pdb
