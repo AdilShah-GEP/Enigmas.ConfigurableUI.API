@@ -7,3 +7,11 @@ C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableU
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.pdb
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\adil.shah\source\repos\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.csprojAssemblyReference.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.deps.json
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.dll
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\bin\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.pdb
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.AssemblyInfoInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.AssemblyInfo.cs
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.dll
+C:\Users\adil.shah\source\repos\GEP-GitHub\Enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.API\enigmas.ConfigurableUI.infrastructure\obj\Debug\netcoreapp3.1\enigmas.ConfigurableUI.infrastructure.pdb

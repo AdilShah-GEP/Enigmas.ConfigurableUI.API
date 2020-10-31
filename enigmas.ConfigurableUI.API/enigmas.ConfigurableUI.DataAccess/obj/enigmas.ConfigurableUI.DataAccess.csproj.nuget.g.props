@@ -15,4 +15,9 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewRelic_Agent_Api Condition=" '$(PkgNewRelic_Agent_Api)' == '' ">C:\Users\adil.shah\.nuget\packages\newrelic.agent.api\8.23.107</PkgNewRelic_Agent_Api>
+    <PkgEnterpriseLibrary_Common_NetCore Condition=" '$(PkgEnterpriseLibrary_Common_NetCore)' == '' ">C:\Users\adil.shah\.nuget\packages\enterpriselibrary.common.netcore\6.1.14</PkgEnterpriseLibrary_Common_NetCore>
+    <PkgEnterpriseLibrary_Data_NetCore Condition=" '$(PkgEnterpriseLibrary_Data_NetCore)' == '' ">C:\Users\adil.shah\.nuget\packages\enterpriselibrary.data.netcore\6.1.9</PkgEnterpriseLibrary_Data_NetCore>
+  </PropertyGroup>
 </Project>

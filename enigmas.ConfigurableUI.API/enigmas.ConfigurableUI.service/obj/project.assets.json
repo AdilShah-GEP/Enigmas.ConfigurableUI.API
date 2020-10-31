@@ -3350,6 +3350,20 @@
           "bin/placeholder/enigmas.ConfigurableUI.Core.dll": {}
         }
       },
+      "enigmas.ConfigurableUI.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "enigmas.ConfigurableUI.Core": "1.0.0",
+          "enigmas.ConfigurableUI.infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/enigmas.ConfigurableUI.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/enigmas.ConfigurableUI.DataAccess.dll": {}
+        }
+      },
       "enigmas.ConfigurableUI.infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -10169,6 +10183,11 @@
       "path": "../enigmas.ConfigurableUI.Core/enigmas.ConfigurableUI.Core.csproj",
       "msbuildProject": "../enigmas.ConfigurableUI.Core/enigmas.ConfigurableUI.Core.csproj"
     },
+    "enigmas.ConfigurableUI.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../enigmas.ConfigurableUI.DataAccess/enigmas.ConfigurableUI.DataAccess.csproj",
+      "msbuildProject": "../enigmas.ConfigurableUI.DataAccess/enigmas.ConfigurableUI.DataAccess.csproj"
+    },
     "enigmas.ConfigurableUI.infrastructure/1.0.0": {
       "type": "project",
       "path": "../enigmas.ConfigurableUI.infrastructure/enigmas.ConfigurableUI.infrastructure.csproj",
@@ -10178,6 +10197,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "enigmas.ConfigurableUI.Core >= 1.0.0",
+      "enigmas.ConfigurableUI.DataAccess >= 1.0.0",
       "enigmas.ConfigurableUI.infrastructure >= 1.0.0"
     ]
   },
@@ -10216,6 +10236,9 @@
           "projectReferences": {
             "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.Core\\enigmas.ConfigurableUI.Core.csproj": {
               "projectPath": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.Core\\enigmas.ConfigurableUI.Core.csproj"
+            },
+            "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.DataAccess\\enigmas.ConfigurableUI.DataAccess.csproj"
             },
             "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.infrastructure\\enigmas.ConfigurableUI.infrastructure.csproj": {
               "projectPath": "C:\\Users\\adil.shah\\source\\repos\\GEP-GitHub\\Enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.API\\enigmas.ConfigurableUI.infrastructure\\enigmas.ConfigurableUI.infrastructure.csproj"

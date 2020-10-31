@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\enigmas.ConfigurableUI.Core\enigmas.ConfigurableUI.Core.csproj" />
+    <ProjectReference Include="..\enigmas.ConfigurableUI.DataAccess\enigmas.ConfigurableUI.DataAccess.csproj" />
     <ProjectReference Include="..\enigmas.ConfigurableUI.infrastructure\enigmas.ConfigurableUI.infrastructure.csproj" />
   </ItemGroup>
 
